@@ -1,0 +1,2 @@
+<!--pages/notice/index.wxml-->
+<view class="title">{{notice}}</view>
